@@ -99,3 +99,14 @@ E:\CSharpToturial\Test\TeduShopAPI\TeduShopAPI\TeduShop.Web\obj\Debug\TeduShop.W
 E:\CSharpToturial\Test\TeduShopAPI\TeduShopAPI\TeduShop.Web\obj\Debug\TeduShop.Web.csproj.CopyComplete
 E:\CSharpToturial\Test\TeduShopAPI\TeduShopAPI\TeduShop.Web\obj\Debug\TeduShop.Web.dll
 E:\CSharpToturial\Test\TeduShopAPI\TeduShopAPI\TeduShop.Web\obj\Debug\TeduShop.Web.pdb
+E:\CSharpToturial\Test\TeduShopAPI\TeduShopAPI\TeduShop.Web\bin\TeduShop.Common.dll
+E:\CSharpToturial\Test\TeduShopAPI\TeduShopAPI\TeduShop.Web\bin\TeduShop.Data.dll
+E:\CSharpToturial\Test\TeduShopAPI\TeduShopAPI\TeduShop.Web\bin\TeduShop.Model.dll
+E:\CSharpToturial\Test\TeduShopAPI\TeduShopAPI\TeduShop.Web\bin\TeduShop.Service.dll
+E:\CSharpToturial\Test\TeduShopAPI\TeduShopAPI\TeduShop.Web\bin\TeduShop.Common.pdb
+E:\CSharpToturial\Test\TeduShopAPI\TeduShopAPI\TeduShop.Web\bin\TeduShop.Data.pdb
+E:\CSharpToturial\Test\TeduShopAPI\TeduShopAPI\TeduShop.Web\bin\TeduShop.Data.dll.config
+E:\CSharpToturial\Test\TeduShopAPI\TeduShopAPI\TeduShop.Web\bin\TeduShop.Model.pdb
+E:\CSharpToturial\Test\TeduShopAPI\TeduShopAPI\TeduShop.Web\bin\TeduShop.Model.dll.config
+E:\CSharpToturial\Test\TeduShopAPI\TeduShopAPI\TeduShop.Web\bin\TeduShop.Service.pdb
+E:\CSharpToturial\Test\TeduShopAPI\TeduShopAPI\TeduShop.Web\bin\TeduShop.Service.dll.config
