@@ -1,0 +1,12 @@
+E:\CSharpToturial\Test\TeduShopAPI\TeduShopAPI\TeduShop.Service\bin\Debug\TeduShop.Service.dll.config
+E:\CSharpToturial\Test\TeduShopAPI\TeduShopAPI\TeduShop.Service\bin\Debug\TeduShop.Service.dll
+E:\CSharpToturial\Test\TeduShopAPI\TeduShopAPI\TeduShop.Service\bin\Debug\TeduShop.Service.pdb
+E:\CSharpToturial\Test\TeduShopAPI\TeduShopAPI\TeduShop.Service\bin\Debug\EntityFramework.dll
+E:\CSharpToturial\Test\TeduShopAPI\TeduShopAPI\TeduShop.Service\bin\Debug\EntityFramework.SqlServer.dll
+E:\CSharpToturial\Test\TeduShopAPI\TeduShopAPI\TeduShop.Service\bin\Debug\EntityFramework.xml
+E:\CSharpToturial\Test\TeduShopAPI\TeduShopAPI\TeduShop.Service\bin\Debug\EntityFramework.SqlServer.xml
+E:\CSharpToturial\Test\TeduShopAPI\TeduShopAPI\TeduShop.Service\obj\Debug\TeduShop.Service.csprojAssemblyReference.cache
+E:\CSharpToturial\Test\TeduShopAPI\TeduShopAPI\TeduShop.Service\obj\Debug\TeduShop.Service.csproj.CoreCompileInputs.cache
+E:\CSharpToturial\Test\TeduShopAPI\TeduShopAPI\TeduShop.Service\obj\Debug\TeduShop.Service.csproj.CopyComplete
+E:\CSharpToturial\Test\TeduShopAPI\TeduShopAPI\TeduShop.Service\obj\Debug\TeduShop.Service.dll
+E:\CSharpToturial\Test\TeduShopAPI\TeduShopAPI\TeduShop.Service\obj\Debug\TeduShop.Service.pdb
