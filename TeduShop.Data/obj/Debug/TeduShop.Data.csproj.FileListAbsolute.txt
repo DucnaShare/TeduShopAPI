@@ -12,3 +12,6 @@ E:\CSharpToturial\Test\TeduShopAPI\TeduShopAPI\TeduShop.Data\obj\Debug\TeduShop.
 E:\CSharpToturial\Test\TeduShopAPI\TeduShopAPI\TeduShop.Data\obj\Debug\TeduShop.Data.pdb
 E:\CSharpToturial\Test\TeduShopAPI\TeduShopAPI\TeduShop.Data\bin\Debug\TeduShop.Common.dll
 E:\CSharpToturial\Test\TeduShopAPI\TeduShopAPI\TeduShop.Data\bin\Debug\TeduShop.Common.pdb
+E:\CSharpToturial\Test\TeduShopAPI\TeduShopAPI\TeduShop.Data\bin\Debug\TeduShop.Model.dll
+E:\CSharpToturial\Test\TeduShopAPI\TeduShopAPI\TeduShop.Data\bin\Debug\TeduShop.Model.pdb
+E:\CSharpToturial\Test\TeduShopAPI\TeduShopAPI\TeduShop.Data\bin\Debug\TeduShop.Model.dll.config
